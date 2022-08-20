@@ -40,15 +40,15 @@ MNFCANDY нэрээр одоог хүртэл амжилттай тухайн т
 MNFCANDY NETWORK | MINECRAFT
 
 Манай MC буюу Minecraft -ийн албан ёсны
-<a href="https://discord.gg/BkWpG6JVBF">Discord</a>·
-<a href="https://bit.ly/3aY3DB2">Facebook Page</a>·
+<a href="https://discord.gg/BkWpG6JVBF">Discord</a> ·
+<a href="https://bit.ly/3aY3DB2">Facebook Page</a> ·
 <a href="https://bit.ly/3qi55Vd">Facebook Group</a>
 
 MNFCANDY NETWORK | FiveM RolePlay
 
 Манай GTA V буюу FIVEM RP-ийн албан ёсны
-<a href="https://discord.gg/5SQYfqXJ9D">Discord</a>·
-<a href="https://bit.ly/2Zd5H2M">Facebook Page</a>·
+<a href="https://discord.gg/5SQYfqXJ9D">Discord</a> ·
+<a href="https://bit.ly/2Zd5H2M">Facebook Page</a> ·
 <a href="https://bit.ly/2MZL87m">Facebook Group</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

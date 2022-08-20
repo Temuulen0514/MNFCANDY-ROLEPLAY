@@ -17,16 +17,16 @@
   <h3 align="center">MNFCANDY NETWORK ROLEPLAY</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Энэхүү GitHub Repository-г ашиглан та манайд алдаа мэдээллэх болон санал хүсэлт илгээх боломжтой.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://servers.fivem.net/servers/detail/mjdb9a"><strong>FiveM Server List »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://discord.gg/5SQYfqXJ9D">Манай Discord холбоос</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/MNFCANDYNETWORK/MNFCANDY-ROLEPLAY/issues/new/choose">Алдаа мэдээллэх</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/MNFCANDYNETWORK/MNFCANDY-ROLEPLAY/issues/new/choose">Санал хүсэлт илгээх</a>
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-<div align="center">## MNFCANDY NETWORK ТОВЧ МЭДЭЭЛЭЛ
+<div align="center"><strong>MNFCANDY NETWORK ТОВЧ МЭДЭЭЛЭЛ</strong>
 
 <div align="center">
   <a href="https://servers.fivem.net/servers/detail/mjdb9a">

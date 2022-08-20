@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://servers.fivem.net/servers/detail/mjdb9a">
-    <img src="https://cdn.discordapp.com/attachments/855904277432107018/859858771127042078/MNF-Nerwork-lite_HD_.gif" alt="Banner" width="1865" height="108">
+    <img src="https://cdn.discordapp.com/attachments/855904277432107018/859858771127042078/MNF-Nerwork-lite_HD_.gif" alt="Logo" width="1865" height="108">
   </a>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.

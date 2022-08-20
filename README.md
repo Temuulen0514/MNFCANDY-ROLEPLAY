@@ -11,10 +11,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/994001951412977785/996608205868240956/mnf.gif" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">MNFCANDY NETWORK ROLEPLAY</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!

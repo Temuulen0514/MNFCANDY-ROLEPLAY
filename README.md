@@ -40,29 +40,29 @@ MNFCANDY нэрээр одоог хүртэл амжилттай тухайн т
 MNFCANDY NETWORK | MINECRAFT
 
 Манай MC буюу Minecraft -ийн албан ёсны
-Discord: https://mnfcandy.com/mc
-Facebook Page: https://bit.ly/3aY3DB2
-Facebook Group: https://bit.ly/3qi55Vd
+<a href="https://discord.gg/BkWpG6JVBF">Discord</a>
+<a href="https://bit.ly/3aY3DB2">Facebook Page</a>
+<a href="https://bit.ly/3qi55Vd">Facebook Group</a>
 
 MNFCANDY NETWORK | FiveM RolePlay
 
 Манай GTA V буюу FIVEM RP-ийн албан ёсны
-Discord: https://mnfcandy.com/gta
-Facebook Page: https://bit.ly/2Zd5H2M
-Facebook Group: https://bit.ly/2MZL87m
+<a href="https://discord.gg/5SQYfqXJ9D">Discord</a>
+<a href="https://bit.ly/2Zd5H2M">Facebook Page</a>
+<a href="https://bit.ly/2MZL87m">Facebook Group</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Roadmap
+## Ирээдүйд хийгдхээр төлөвлөж буй зүйлс
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+    - [x] 
+    - [x] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,17 +70,6 @@ Facebook Group: https://bit.ly/2MZL87m
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

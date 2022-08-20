@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://cdn.discordapp.com/attachments/855904277432107018/859858771127042078/MNF-Nerwork-lite_HD_.gif">
     <img src="https://cdn.discordapp.com/attachments/994001951412977785/996608205868240956/mnf.gif" alt="Logo" width="80" height="80">
   </a>
 

@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://cdn.discordapp.com/attachments/855904277432107018/859858771127042078/MNF-Nerwork-lite_HD_.gif">
+  <a href="https://servers.fivem.net/servers/detail/mjdb9a">
     <img src="https://cdn.discordapp.com/attachments/994001951412977785/996608205868240956/mnf.gif" alt="Logo" width="80" height="80">
   </a>
 
@@ -33,7 +33,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <a href="https://servers.fivem.net/servers/detail/mjdb9a">
+    <img src="https://cdn.discordapp.com/attachments/855904277432107018/859858771127042078/MNF-Nerwork-lite_HD_.gif" alt="Banner" width="1865" height="108">
+  </a>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 

@@ -32,16 +32,24 @@
 <!-- ABOUT THE PROJECT -->
 <strong>MNFCANDY NETWORK ТОВЧ МЭДЭЭЛЭЛ</strong>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Манай сервер нь 2015 оны 10 сард албан ёсоор үйл ажиллагаа явуулж эхэлсэн. 
+Анх MNF нэрээр Minecraft-ийн сервер-ээр үйл ажиллагаа явуулж байгаад 
+MNFCANDY нэрээр одоог хүртэл амжилттай тухайн төрлүүд дээр тоглогчдын
+тав тухыг хангасан тоглогчдын өргөн сонголт болсон тоглоомын сервер ажилуулж байна.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+MNFCANDY NETWORK | MINECRAFT
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Манай MC буюу Minecraft -ийн албан ёсны
+Discord: https://mnfcandy.com/mc
+Facebook Page: https://bit.ly/3aY3DB2
+Facebook Group: https://bit.ly/3qi55Vd
 
-Use the `BLANK_README.md` to get started.
+MNFCANDY NETWORK | FiveM RolePlay
+
+Манай GTA V буюу FIVEM RP-ийн албан ёсны
+Discord: https://mnfcandy.com/gta
+Facebook Page: https://bit.ly/2Zd5H2M
+Facebook Group: https://bit.ly/2MZL87m
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

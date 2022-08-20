@@ -8,12 +8,6 @@
 -->
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://servers.fivem.net/servers/detail/mjdb9a">
-    <img src="https://cdn.discordapp.com/attachments/994001951412977785/996608205868240956/mnf.gif" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">MNFCANDY NETWORK ROLEPLAY</h3>
 
   <p align="center">
@@ -31,7 +25,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## MNFCANDY NETWORK ТОВЧ МЭДЭЭЛЭЛ
 
 <div align="center">
   <a href="https://servers.fivem.net/servers/detail/mjdb9a">
